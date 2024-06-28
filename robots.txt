@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://horborto.github.io/sitemap
+Sitemap: https://horborto.github.io/app/sitemap
+Sitemap: https://horborto.github.io/assets/sitemap
+Sitemap: https://horborto.github.io/css/sitemap
+Sitemap: https://horborto.github.io/includes/sitemap
+Sitemap: https://horborto.github.io/item/sitemap
+Sitemap: https://horborto.github.io/src/sitemap
